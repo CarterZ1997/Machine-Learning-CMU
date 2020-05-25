@@ -1,2 +1,1 @@
-# Numerical-Methods-CMU
-Class in CMU
+# Class in CMU
